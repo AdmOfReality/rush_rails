@@ -1,0 +1,3 @@
+# README
+
+Tests rails application
